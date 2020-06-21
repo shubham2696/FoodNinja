@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "513970102716",
+    "firebase_url": "https://foodninja-40105.firebaseio.com",
+    "project_id": "foodninja-40105",
+    "storage_bucket": "foodninja-40105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513970102716:android:742e7ab5fba560ad",
+        "android_client_info": {
+          "package_name": "i.beangate.foodninja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZCieSb1PyDDly3QFgHzzPH1VrvRMQQfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513970102716-7c8pvngkbfufhganks4062nqk2fknu3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

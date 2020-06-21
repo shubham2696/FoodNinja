@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">FoodNinja</string>
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="history">History</string>
+    <string name="profile">Setting</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_activity_order_list">OrderList</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+
+    <string name="login_with_mobile_no">Please enter your mobile number </string>
+    <string name="proceed">PROCEED</string>
+    <string name="verify">VERIFY</string>
+    <string name="save">SAVE</string>
+    <string name="enter_your_mobile_no">Please Enter Your mobile number</string>
+    <string name="waiting_to_automatically_detect_an_sms_n_sent_to_your_mobile_number">Waiting to automatically detect an SMS   sent to your mobile number</string>
+    <string name="enter_4_digit_otp_below">Enter 6 Digit OTP Below</string>
+    <string name="resend_code">RESEND CODE</string>
+    <string name="don_t_received_the_code">Don\'t Received The Code</string>
+
+    <string name="loginfailed" />
+    <string name="loginsuccess" />
+    <string name="nameerror">Enter Valid Name</string>
+    <string name="add">Enter Address</string>
+    <string name="zip">Enter PinCode</string>
+    <string name="emailerror">Enter Valid Email</string>
+    <string name="passworderror">Enter Some Password</string>
+    <string name="mobileerror">Enter Valid Mobile Number</string>
+    <string name="label_ok">ok</string>
+
+
+    <string-array name="usertype">
+        <item>Select User</item>
+        <item>Student</item>
+        <item>Faculty</item>
+        <item>Staff</item>
+        <item>Outsider</item>
+    </string-array>
+</resources>
