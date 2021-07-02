@@ -7,18 +7,36 @@ billing and inventory control .The system processes transaction and stores the r
 Reports will be generated from these data which help the manager to make appropriate business decisions for the
 cafeteria.
 
-## Registration Page
 
-![registration](https://user-images.githubusercontent.com/49994608/65178498-7b3b7100-da76-11e9-8d38-d73b22549a7a.png)
+## Splash
 
-## Login Page
+![splash](https://user-images.githubusercontent.com/49994608/124217367-da685980-db15-11eb-850d-bebd1e57576d.png)
 
-![login](https://user-images.githubusercontent.com/49994608/65178579-ae7e0000-da76-11e9-8707-0852ab292321.png)
+## Splash
 
-## OTP Page
+![login](https://user-images.githubusercontent.com/49994608/124217401-e7854880-db15-11eb-8b4b-2c94303fd74e.png)
 
-![otp](https://user-images.githubusercontent.com/49994608/65178583-b178f080-da76-11e9-90ce-5c65e2dfbe2b.png)
+## Splash
 
-## Welcome Page
+![otp](https://user-images.githubusercontent.com/49994608/124217421-efdd8380-db15-11eb-873a-91297f544211.png)
 
-![welcome](https://user-images.githubusercontent.com/49994608/65178594-b473e100-da76-11e9-8b5b-506ed3f65332.png)
+## Splash
+
+![home](https://user-images.githubusercontent.com/49994608/124217440-f966eb80-db15-11eb-9919-ab3fb02c0b97.png)
+
+## Splash
+
+![food cat](https://user-images.githubusercontent.com/49994608/124217454-008df980-db16-11eb-9b18-6f6604de7477.png)
+
+## Splash
+
+![menu](https://user-images.githubusercontent.com/49994608/124217478-0aaff800-db16-11eb-8ed9-f4b98e9000b3.png)
+
+## Splash
+
+![order](https://user-images.githubusercontent.com/49994608/124217494-14396000-db16-11eb-981f-92796687e497.png)
+
+## Splash
+
+![cart](https://user-images.githubusercontent.com/49994608/124217506-1ac7d780-db16-11eb-8880-07e23316d489.png)
+
