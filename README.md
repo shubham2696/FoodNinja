@@ -16,7 +16,7 @@ cafeteria.
 
 ![login](https://user-images.githubusercontent.com/49994608/124217401-e7854880-db15-11eb-8b4b-2c94303fd74e.png)
 
-## OTP varification 
+## OTP Verification 
 
 ![otp](https://user-images.githubusercontent.com/49994608/124217421-efdd8380-db15-11eb-873a-91297f544211.png)
 
