@@ -24,7 +24,7 @@ cafeteria.
 
 ![home](https://user-images.githubusercontent.com/49994608/124217440-f966eb80-db15-11eb-9919-ab3fb02c0b97.png)
 
-## Food Catagory
+## Food Category
 
 ![food cat](https://user-images.githubusercontent.com/49994608/124217454-008df980-db16-11eb-9b18-6f6604de7477.png)
 
